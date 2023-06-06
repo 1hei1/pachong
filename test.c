@@ -1,5 +1,6 @@
-#include "stdio.h"
 
+#include "stdio.h"
 int main(){
-  int a="123";
+  int a=123;
+  printf("abcdefg");
 }
